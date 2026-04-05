@@ -40,5 +40,6 @@ __pycache__/
 *.pyc
 pixiv_auth.py
 api/config/*.py
+!api/config/*.template.py
 api/deepdanbooru/*
 api/request/*
